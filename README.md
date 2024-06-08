@@ -18,6 +18,7 @@ KMeans is a popular clustering algorithm used to partition a dataset into `n` cl
 To use this implementation, you need to have Python installed along with the following dependencies:
 
 - `numpy`
+- `matplotlib`
 
 You can install the required dependencies using `pip`:
 
